@@ -1,8 +1,8 @@
 # codeing=utf-8
 import socket
 
-target_host = "www.cnblogs.com"
-target_port = 80
+target_host = "127.0.0.1"
+target_port = 9999
 
 # socket.AF_INET:IPV4
 # socket.SOCK_STREAM:TCP
